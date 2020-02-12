@@ -1,11 +1,6 @@
 #!/usr/local/bin/python3
-#
 # find_luddy.py : a simple maze solver
-#
-# Submitted by : [Sumith Reddi Baddam - srbaddam]
-#
-# Based on skeleton code by Z. Kachwala, 2019
-#
+
 
 import sys
 import json
